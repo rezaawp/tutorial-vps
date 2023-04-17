@@ -49,3 +49,5 @@ Beberapa fitur tambahan yang tersedia di AApanel antara lain:
     Dukungan untuk instalasi dan manajemen WordPress, Joomla, dan Drupal
 
 AApanel tersedia dalam versi gratis dan berbayar, dengan fitur yang lebih lengkap tersedia pada versi berbayar. AApanel mendukung beberapa sistem operasi, seperti CentOS, Ubuntu, Debian, dan Fedora.
+
+Di aa panel gue bisa mengatur akses file yang tidak boleh di buka di pengaturan website config
